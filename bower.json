@@ -2,7 +2,7 @@
   "name": "google-signin",
   "version": "2.0.0",
   "description": "Web components to authenticate with Google services",
-  "homepage": "https://googlewebcomponents.github.io/google-signin",
+  "homepage": "https://www.webcomponents.org/element/GoogleWebComponents/google-signin",
   "main": "google-signin.html",
   "authors": [
     "Addy Osmani",
